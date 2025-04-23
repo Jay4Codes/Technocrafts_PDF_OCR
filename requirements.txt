@@ -6,3 +6,4 @@ numpy
 setuptools
 PyMuPDF
 opencv-python
+opencv-contrib-python
