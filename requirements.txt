@@ -1,0 +1,7 @@
+paddlepaddle
+paddleocr
+streamlit
+pandas
+numpy
+setuptools
+PyMuPDF
