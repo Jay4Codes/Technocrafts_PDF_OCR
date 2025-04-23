@@ -5,3 +5,4 @@ pandas
 numpy
 setuptools
 PyMuPDF
+opencv-python
